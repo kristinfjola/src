@@ -15,7 +15,7 @@ public class CornersMain extends ApplicationAdapter {
 	public void create () {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
-		_ottar = true; //what a true bro
+		_ottar = false; //what a false goon
 		System.out.println("watwa");
 	}
 
